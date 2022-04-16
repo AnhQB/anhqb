@@ -25,7 +25,9 @@
 <br>
 
 ### Databases:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
+
 
 <br>
 <br>
