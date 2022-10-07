@@ -25,6 +25,7 @@
 ### Libraries and Frameworks:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/springboot.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/angular.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/dotnet.svg" />
 <br>
