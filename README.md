@@ -1,5 +1,5 @@
 ### Hellu .. 👋
-- 🌱 I’m currently learning FPT University
+- 🌱 I graduated from FPT University
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: has a strong love for sweets 😄
