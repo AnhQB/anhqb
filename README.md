@@ -1,5 +1,5 @@
 ### Hellu .. 👋
-- 🌱 I graduated from FPT University
+- 🌱 I from Quang Binh 73 province 
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 - ⚡ Fun fact: has a strong love for sweets 😄
